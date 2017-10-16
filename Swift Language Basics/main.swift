@@ -27,6 +27,8 @@ else {
     print("The samples are not equal.")
 }
 
+//add comment
+
 if heartRate >= 40 || heartRate <= 80
 {
     print("heart rate is normal")
